@@ -1,0 +1,104 @@
+
+    html,
+    body,
+    header
+    .view {
+      height: 100%;
+    }
+    header,footer{
+      
+    color:#fff;
+    }
+    .nav-link,.footer-link{
+      color:#fff;
+    }
+    nav-link,.navbar-brand,.footer-link{
+      color:#fff;
+    }
+    header,#section2,#section3{
+       
+      background: linear-gradient(to left, #193e57, #09192c);
+    
+    }
+    .btn,.card{
+      background:linear-gradient( to left ,#ebc427,#FFD600);
+      color:black;
+    }
+    footer {
+        padding: 15px 0;
+        text-align: center;
+        background:#09192c; 
+    }
+    #btn1,#fbb,#btn2{
+      color:black;
+    }
+    
+    footer.p {
+            font-size: 12px;
+            margin: 0;
+        }
+       footer.ul {
+            margin-bottom: 0;
+       }
+            footer.ul.li.a {
+                
+                    font-size: 12px;
+                    
+                    
+                    
+                        text-decoration: none;
+                    
+            }
+            
+      
+            
+    
+    #section2{
+      
+      padding: 50px;
+      
+      
+    
+    }
+    #section3{
+      
+      padding: 50px;
+      color:#fff;
+    }
+    .btn {
+      
+      color:black;
+    }
+    
+    
+    
+    
+    
+    nav{
+      background:#09192c;
+      
+    }
+    .responsive{
+      width: 100%;
+      height: auto;
+    }
+    
+    h2,h1 {
+      letter-spacing: 0px;
+      padding-top: 50px;
+      font-size: 30px;
+    }
+    
+    h5 {
+      letter-spacing: 3px;
+    }
+    h6{
+      color:black;
+    }
+    .device-container {
+            max-width: 350px;
+            max-height: 500px;
+            margin-right: auto;
+            margin-left: auto;
+    }
+    
